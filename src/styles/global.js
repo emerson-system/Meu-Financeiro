@@ -13,6 +13,8 @@ const Global = createGlobalStyle`
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    width:100vw;
+    height:100vh;
   }
   
 `;
